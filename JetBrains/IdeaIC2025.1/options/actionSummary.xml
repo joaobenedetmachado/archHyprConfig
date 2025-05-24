@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="8" l="1748096939868" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1748097016645" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1748096935384" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1748097931940" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1748097015466" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="2" l="1748096977786" />
+    </e>
+  </component>
+</application>
