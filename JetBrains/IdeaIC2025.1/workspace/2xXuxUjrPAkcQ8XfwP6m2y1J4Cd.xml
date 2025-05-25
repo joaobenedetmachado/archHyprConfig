@@ -17,8 +17,8 @@
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CourseStudies/Ex001/Main.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="42">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="392">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -29,12 +29,12 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "Markdown": {
-      "usageCount": 2,
-      "lastUsed": 1748097824019
+      "usageCount": 3,
+      "lastUsed": 1748177295280
     },
     "JAVA": {
-      "usageCount": 1,
-      "lastUsed": 1748097831291
+      "usageCount": 2,
+      "lastUsed": 1748177295064
     }
   }
 }]]></component>
@@ -48,10 +48,10 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="1" lastUsage="1748097831291" />
+      <summary usageCount="2" lastUsage="1748177295067" />
     </language>
     <language id="Markdown">
-      <summary usageCount="2" lastUsage="1748097824027" />
+      <summary usageCount="3" lastUsage="1748177295280" />
     </language>
   </component>
   <component name="ProjectView">
@@ -295,9 +295,9 @@
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41923487" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="12" visible="true" weight="0.41904008" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
@@ -308,22 +308,28 @@
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights left="0.41923487" />
+      <unified_weights left="0.41904008" />
     </layoutV2>
     <recentWindows>
       <value>Project</value>
     </recentWindows>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="197" key="SettingsEditor" timestamp="1748177371911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="197" key="SettingsEditor/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1748177371911" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CourseStudies/Ex001/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="392">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="30" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
