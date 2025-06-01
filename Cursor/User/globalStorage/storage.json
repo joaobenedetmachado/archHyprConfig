@@ -1,0 +1,70 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "0323db579325033280bd4a70c48c480ddc585ac441d1c26939eba6e914e44150",
+    "telemetry.macMachineId": "e3e305fdd2acca45e6b4736e7b4674e0e97d6969b79225fff7a7e9a5d4cbf217",
+    "telemetry.devDeviceId": "a918c8a6-0adf-460f-ba45-465f8fec4f83",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/joao/Vagou"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1748558609294"
+            }
+        ]
+    },
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/joao/Vagou": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1748558609294": "__default__profile__"
+        }
+    },
+    "windowControlHeight": 35,
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/joao/Vagou",
+            "backupPath": "/home/joao/.config/Cursor/Backups/ed960599457348873786f01fc0c8f744",
+            "uiState": {
+                "mode": 1,
+                "x": 12,
+                "y": 42,
+                "width": 1896,
+                "height": 1026
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1a1a1a",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(204, 204, 204, 0.87)",
+            "background": "#1a1a1a",
+            "editorBackground": "#1a1a1a",
+            "titleBarBackground": "#141414",
+            "titleBarBorder": "rgba(255, 255, 255, 0.05)",
+            "activityBarBackground": "#141414",
+            "sideBarBackground": "#141414",
+            "sideBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarBackground": "#141414",
+            "statusBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarNoFolderBackground": "#141414"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 235,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}
